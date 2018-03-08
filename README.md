@@ -5,7 +5,9 @@ Team: Miguel Castro, Ryan Tolentino
 
 # Tools and Techniques
 Web2py
+
 Draw.io
+
 SQLDb
 
 # Timeline
